@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Software Engineering
+- 🔭 Interested in: Backend programming, Hardware, Sysadmin
 
 <!--
 **nigelks/nigelks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
